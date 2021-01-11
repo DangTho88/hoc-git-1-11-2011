@@ -4,4 +4,6 @@ if (sanPham == "ga") {
   console.log("10$");
 } else if (sanPham == "vit") {
   console.log("8$");
+} else if (sanPham == "bo") {
+  console.log("20$");
 }
