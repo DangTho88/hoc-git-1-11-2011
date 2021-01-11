@@ -7,3 +7,4 @@ if (sanPham == "ga") {
 } else if (sanPham == "bo") {
   console.log("20$");
 }
+console.log("đã sửa");
